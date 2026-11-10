@@ -1,0 +1,15 @@
+{
+  "name": "fix-it-run",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A little web game about a technician's journey: drive to the customer's home, diagnose and fix the appliance.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.11"
+  }
+}
